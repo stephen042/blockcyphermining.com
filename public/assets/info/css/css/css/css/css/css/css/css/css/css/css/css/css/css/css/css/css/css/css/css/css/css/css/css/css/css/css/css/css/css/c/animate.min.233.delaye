@@ -1,0 +1,246 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+<!-- Mirrored from blockcypherminings.com/info/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/animate.min.css by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2023 12:12:40 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../favicon.png" rel="icon" type="image/x-icon" />
+<!-- Add icon library -->
+<link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+ <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+  
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../js/jquery.min.js"></script>
+<!-- Popper JS -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../js/popper.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../js/bootstrap.min.js"></script>
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../404.html"></script>
+
+<link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../css/main.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../css/bootstrap-select.css">
+<link href="animate.min.237.delaye" rel="stylesheet" />
+
+<title>BlockCypherMinings</title>
+<link rel="manifest" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../js/manifest.json">
+<meta name="theme-color" content="#482068">
+<meta name="msapplication-navbutton-color" content="#482068">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#482068">
+
+
+<meta name="theme-color" content="#482068">
+<meta name="msapplication-navbutton-color" content="#482068">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#482068">
+
+<link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../favicon.png" rel="icon" type="image/x-icon" />
+<link rel="icon" sizes="192x192" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../404.html">
+
+<meta name="keywords" content="BlockCypherMinings, Options, Crypto mining" />
+<meta property="og:image" content="https://blockcypherminings.com/images/icon/icon-310x310.png" />
+
+<meta name="msapplication-square310x310logo" content="https://blockcypherminings.com/images/icon/icon-310x310.png">
+<meta name="msapplication-square70x70logo" content="https://blockcypherminings.com/images/icon/icon-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://blockcypherminings.com/images/icon/icon-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://blockcypherminings.com/images/icon/icon-310x150.png">
+
+<link rel="apple-touch-icon-precomposed" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/icon/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../404.html" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../404.html" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/icon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/icon/apple-touch-icon-144x144.png" />
+
+
+<meta property="og:site_name" content="BlockCypherMinings">
+<meta property="og:title" content="Bitcoin &amp; ETH Mining With BlockCypherMinings" />
+<meta name="description" content="Blockchain With BlockCypherMinings, is totally different from its competitors trying to achieve something special starting with the...">
+<meta property="og:description" content="Blockchain With BlockCypherMinings, is totally different from its competitors trying to achieve something special starting with the...">
+<meta property="og:type" content="website" />
+
+
+<link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../css/select2.min.css" rel="stylesheet" />
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark text-light bg-primary fixed-top shadow-sm" style="transition: 0.5s all;">
+  <div class="container">
+    <a class="navbar-brand" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">
+      <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/logo.png" title="BlockCypherMinings" style="height: 55px"/>
+    </a>
+    <button class="navbar-toggler" type="button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../blockchain.html" class="nav-link">Blockchain</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../hpc.html" class="nav-link">HPC</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../crypto-infrastructure.html" class="nav-link">Crypto-Infrastructure</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../ai.html" class="nav-link">AI</a></li>
+      </ul>
+      <ul class="navbar-nav">
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html" class="nav-link">About</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html" class="nav-link">Contact</a></li>
+        <li class="nav-item px-3 pr-md-0 py-1 text-light">
+            <select class="selectpicker" data-style="no-select text-light" data-width="80px" id="language" onchange="changeLanguageByButtonClick()">
+              <option value="en" selected data-content="<div class='iti-flag gb d-inline-block mr-2'></div>EN">English</option>
+              <option value="af" data-content="<div class='iti-flag af d-inline-block mr-2'></div>AF">Afrikanns</option>
+              <option value="sq" data-content="<div class='iti-flag al d-inline-block mr-2'></div>SQ">Albanian</option>
+              <option value="ar" data-content="<div class='iti-flag ar d-inline-block mr-2'></div>AR">Arabic</option>
+              <option value="hy" data-content="<div class='iti-flag am d-inline-block mr-2'></div>HY">Armenian</option>
+              <option value="eu" data-content="<div class='iti-flag eu d-inline-block mr-2'></div>EU">Basque</option>
+              <option value="zh-CN" data-content="<div class='iti-flag cn d-inline-block mr-2'></div>zh-CN">Chinese (Mandarin)</option>
+              <option value="da" data-content="<div class='iti-flag de d-inline-block mr-2'></div>DA">Danish</option>
+              <option value="et" data-content="<div class='iti-flag et d-inline-block mr-2'></div>ET">Estonian</option>
+              <option value="fi" data-content="<div class='iti-flag fi d-inline-block mr-2'></div>FI">Finnish</option>
+              <option value="fr" data-content="<div class='iti-flag fr d-inline-block mr-2'></div>FR">French</option>
+              <option value="de" data-content="<div class='iti-flag de d-inline-block mr-2'></div>DE">German</option>
+              <option value="el" data-content="<div class='iti-flag gr d-inline-block mr-2'></div>EL">Greek</option>
+              <option value="he" data-content="<div class='iti-flag il d-inline-block mr-2'></div>HE">Hebrew</option>
+              <option value="hi" data-content="<div class='iti-flag in d-inline-block mr-2'></div>HI">Hindi</option>
+              <option value="id" data-content="<div class='iti-flag id d-inline-block mr-2'></div>ID">Indonesian</option>
+              <option value="ga" data-content="<div class='iti-flag ga d-inline-block mr-2'></div>GA">Irish</option>
+              <option value="it" data-content="<div class='iti-flag it d-inline-block mr-2'></div>IT">Italian</option>
+              <option value="ja" data-content="<div class='iti-flag jp d-inline-block mr-2'></div>JA">Japanese</option>
+              <option value="ko" data-content="<div class='iti-flag kr d-inline-block mr-2'></div>KO">Korean</option>
+              <option value="la" data-content="<div class='iti-flag la d-inline-block mr-2'></div>LA">Latin</option>
+              <option value="pt" data-content="<div class='iti-flag pt d-inline-block mr-2'></div>PT">Portuguese</option>
+              <option value="pa" data-content="<div class='iti-flag pa d-inline-block mr-2'></div>PA">Punjabi</option>
+              <option value="ro" data-content="<div class='iti-flag ro d-inline-block mr-2'></div>RO">Romanian</option>
+              <option value="ru" data-content="<div class='iti-flag ru d-inline-block mr-2'></div>RU">Russian</option>
+              <option value="es" data-content="<div class='iti-flag es d-inline-block mr-2'></div>ES">Spanish</option>
+              <option value="sv" data-content="<div class='iti-flag sv d-inline-block mr-2'></div>SV">Swedish </option>
+              <option value="th" data-content="<div class='iti-flag th d-inline-block mr-2'></div>th">Thai</option>
+              <option value="to" data-content="<div class='iti-flag to d-inline-block mr-2'></div>TO">Tonga</option>
+              <option value="tr" data-content="<div class='iti-flag tr d-inline-block mr-2'></div>tr">Turkish</option>
+            </select>
+          </li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../register.html" class="nav-link">Register</a></li>
+          <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../login.html" class="nav-link">Log in</a></li>      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="overlay" id="closeMenu"></div>
+<div class="account-sidebar udex-collapse shadow-lg" id="mySidebar">
+
+<nav class="navbar bg-white text-dark p-0">
+    <ul class="nav divider py-3">
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../blockchain.html" class="nav-link">Blockchain</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../hpc.html" class="nav-link">HPC</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../crypto-infrastructure.html" class="nav-link">Crypto-Infrastructure</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../ai.html" class="nav-link">AI</a></li>
+	  </ul>
+    <ul class="nav divider py-3">
+      <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../register.html" class="nav-link"><i class="fas fa-user-plus"></i> Create account</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../login.html" class="nav-link"><i class="fas fa-lock"></i> Log in</a></li>	</ul>
+    <ul class="nav divider py-3">
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html" class="nav-link">About</a></li>
+        <li class="nav-item"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html" class="nav-link">Contact</a></li>
+	  </ul>
+</nav>
+</div>
+<script>
+$(".navbar-toggler").click( function(){
+	$("#mySidebar").toggle({ direction: "left" }, 1000);
+	$("#closeMenu").fadeToggle();
+});
+$("#closeMenu").click( function(){
+	$("#mySidebar").toggle({ direction: "left" }, 1000);
+  $("#closeMenu").fadeToggle();
+});
+</script>    
+<div class="bg-about">
+  <div class="container">
+    <h1>About BlockCypherMinings</h1>
+  </div>
+</div>
+<div class="container my-5"><p style="-webkit-font-smoothing: antialiased !important;">BlockCypherMinings is a distinctive investment company offering our investors access to high-growth investment opportunities in Bitcoin markets and other services. We implement best practices of trading of Bitcoins through our operations, while offering flexibility in our investment plans. Our company benefits from an extensive network of global clients. At BlockCypherMinings campany, we emphasize on understanding our client&rsquo;s requirement and providing suitable solutions to meet their investment criteria. Our aim is to utilize our expertise &amp; knowledge which will benefit our clients and the users of our services. Our company believes that when a team outperforms expectations, excellence becomes a reality.</p>
+ <p>our Company head office is located here "56 Burnley St, Richmond VIC 3121, Australia"</em></p> </div><footer>
+    <div class="container pt-5 pb-2">
+        <div class="row">
+            <div class="col-6 col-md p-4">
+                <h3 class="text-uppercase mb-3">Blockchain</h3>
+                <ul>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../blockchain.html#exonum">Exonum</a></li>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../blockchain.html#crystal">Crystal</a></li>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../blockchain.html#surround">Surround</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md p-4">
+                <h3 class="text-uppercase mb-3">HPC</h3>
+                <ul>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../hpc.html">LiquidStack</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md p-4">
+                <h3 class="text-uppercase mb-3">Crypto-Infrastructure</h3>
+                <ul>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../crypto-infrastructure.html#tardisk">BlockCypherMinings Tardisk</a></li>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../crypto-infrastructure.html#blockbox">BlockBox AC</a></li>
+                    <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../crypto-infrastructure.html#data">Turn-Key Solutions</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md col-lg-3 p-4">
+              <h3 class="text-uppercase mb-3">Company</h3>
+              <ul>
+                
+                <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html">About</a></li>
+                <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html">Contact</a></li>
+                <li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../faqs.html">FAQs</a></li>
+              </ul>
+            </div>
+            
+            <div class="col-12 col-md col-lg-3 p-4">
+              <h3 class="text-uppercase mb-3">Company Documents</h3>
+              <div class="d-flex">
+                <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/p2.jpg" style="width: 100px" alt="">
+                <div class="ml-3">
+                  <h5 class="mt-0">Mining Contract</h5>
+                  <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../images/p2.jpg" target="_blank" class="btn btn-secondary">Checkout</a>
+                </div>
+              </div>
+            </div>
+        </div>
+      <hr>
+      <p>Copyright © 2016 BlockCypherMinings, All Rights Reserved</p>
+    </div>
+</footer>
+
+<div id="google_translate_element" style="display:none"></div>
+<script type="text/javascript">
+
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: "en"}, 'google_translate_element');
+}
+
+function changeLanguageByButtonClick() {
+  var language = document.getElementById("language").value;
+  var selectField = document.querySelector("#google_translate_element select");
+  for(var i=0; i < selectField.children.length; i++){
+    var option = selectField.children[i];
+    // find desired langauge and change the former language of the hidden selection-field 
+    if(option.value==language){
+       selectField.selectedIndex = i;
+       // trigger change event afterwards to make google-lib translate this side
+       selectField.dispatchEvent(new Event('change'));
+       break;
+    }
+  }
+}
+</script>
+
+<script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../code.tidio.co_443/m2k9pheaphnefxywvr72ihztzgigxe6f.js" async></script>
+
+<script type="text/javascript" src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
+
+</body>
+
+<!-- Mirrored from blockcypherminings.com/info/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/css/animate.min.css by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2023 12:12:40 GMT -->
+</html>
